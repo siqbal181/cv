@@ -26,8 +26,7 @@ _Senior Account Manager_
 
 - Led on creating clients PPC strategy and collaborating with cross-channel owners to activate certain tactics.
 - Worked with clients to create quarterly and annual forecasts based on their KPIs and targets.
-- Spotted inefficiencies in a solution-oriented approach, such as using datastudio to automate many time-intensive data pulls,
-which has saved around 140 hours per year.
+- Spotted inefficiencies in a solution-oriented approach, such as using datastudio to automate many time-intensive data pulls, which has saved around 140 hours per year.
 - Increased our App GP by 15% by creating a cross-channel app digital maturity framework and pitching this to existing clients.
 
 **Incubeta** (07/19 - 10/20)   
@@ -48,21 +47,23 @@ _Account Executive_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+- I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room.
+- My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
 #### Project Management
 
 - I worked with M&S to onboard their customer data platform and create a strategy on how to use their audiences in our campaigns to further drive revenue. This involved creating a roadmap for this project, which allowed us to see all the relevant timelines of when we would be activating the audiences, as well as relevant stakeholders responsible for each action. This also allowed me to keep track of internal responsibilities and keep track of who was accountable for each stage.
+- I have led several projects for clients which utilise complicated marketing technologies, and have often recieved feedback from clients that I do a great job of breaking down the project technical dependencies into ways in which the client can understand.
 
 #### Leadership Experience
-- I lead an internal M&S working group, which involves collaborating with several members of leadership (including the CFO and CGO) to discuss how we can elevate our service levels to align with key stakeholder expectations.
+- I led an internal M&S working group, which involved collaborating with several members of leadership (including the CFO and CGO) to discuss how we could elevate our service levels to align with key stakeholder expectations.
 - I was appointed to a role in the agency leadership team, and worked with the Head of Biddable to develop the agency's proposition and increase gross profit, by finding new revenue streams and upselling additional services.
 - I was one of 3 people chosen for an external training programme, designed to develop up-and-coming diverse talent for leadership positions.
+
+#### Team Management
+- I have been a manager at some capacity since 2019 and have learnt a huge deal from managing different people with varying approaches to work and communication styles.
+- Whilst being a team manager, I also managed my teams progression and guided them on their progression pathway in quarterly reviews.
 
 ## Education
 
@@ -77,11 +78,8 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Queen Mary's University of London (09/14 - 09/17)
 
-- Medical Generics, BSc - 1st Class
-- I studied medical genetics to build my understanding around the
-link between the ethical complications and the epidemiology of
-key genetic conditions. This was an interdisciplinary degree with
-modules relating to genetics, probability and cancer genetics.
+- Medical Genetics, BSc - 1st Class
+- This was an interdisciplinary degree with modules relating to genetics, probability and cancer genetics, allowing me to build understanding around the link between the ethical complications and the epidemiology of key genetic conditions.
 
 ## Other Proficiencies
 
