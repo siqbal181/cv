@@ -18,7 +18,7 @@ _Account Director & Women's Affinity Network Chair_
 - Tracked and identified operational risks and issues, and work with my head of department to put preventative controls in place.
 - Reviewed processes and technology to ensure they were being maximised and profitable across the team.
 - Supported the business development team with pitches by devised the prospective strategy, winning around £40k in GP of new business.
-- Built and maintain client satisfaction using regular check-ins to understand their key objectives and address improvement areas.
+- Built and maintained client satisfaction using regular check-ins to understand their key objectives and address improvement areas.
 
 **Incubeta** (10/20 - 01/22)   
 _Senior Account Manager_
