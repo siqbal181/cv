@@ -14,12 +14,11 @@ I am a former digital Account Director with 5+ years of experience working at a 
 **Incubeta** (01/22 - 03/23)  
 _Account Director & Women's Affinity Network Chair_
 
-- Manage a team of 8 people across clients totalling a £2m monthly budget and oversee quality cross-channel delivery.
-- Track and identify operational risks and issues, and work with my head of department to put preventative controls in place.
-- Review processes and technology to ensure they are being maximised and profitable across the team.
-- Support the business development team with pitches by devising the prospective clients top level strategy, winning around £40k
-in GP of new business.
-- Build and maintain client satisfaction using regular check-ins to understand their key objectives and address improvement areas.
+- Managed a team of 8 people across clients totalling a £2m monthly budget and oversaw quality cross-channel delivery.
+- Tracked and identified operational risks and issues, and work with my head of department to put preventative controls in place.
+- Reviewed processes and technology to ensure they were being maximised and profitable across the team.
+- Supported the business development team with pitches by devised the prospective strategy, winning around £40k in GP of new business.
+- Built and maintain client satisfaction using regular check-ins to understand their key objectives and address improvement areas.
 
 **Incubeta** (10/20 - 01/22)   
 _Senior Account Manager_
